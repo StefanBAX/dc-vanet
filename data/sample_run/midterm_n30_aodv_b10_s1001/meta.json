@@ -1,0 +1,13 @@
+{
+  "run_id": "midterm_n30_aodv_b10_s1001",
+  "n_vehicles": 30,
+  "routing": "aodv",
+  "beacon_hz": 10.0,
+  "seed": 1001,
+  "ns3_run": 1,
+  "sim_time_s": 120.0,
+  "warmup_s": 20.0,
+  "beacon_size_b": 300,
+  "wallclock_s": 17.6,
+  "mobility": "data/mobility/n30_s1001/mobility.tcl"
+}

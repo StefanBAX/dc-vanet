@@ -1,0 +1,1 @@
+standard=802.11p channel=178 width_MHz=10 frequency_MHz=5890 tx_power_dBm=20 path_loss_exponent=2.5 min_rssi_dBm=-94 routing=aodv vehicles=30 beacon_hz=10 run=1
